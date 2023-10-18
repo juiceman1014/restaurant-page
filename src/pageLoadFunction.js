@@ -2,10 +2,15 @@ export default function pageLoadFunction() {
     const contentDiv = document.getElementById("content");
 
     const homeBtn = document.createElement("button");
+    homeBtn.id = "home-button"
     homeBtn.textContent = ("home");
+
     const menuBtn = document.createElement("button");
+    menuBtn.id = "menu-button"
     menuBtn.textContent = ("menu");
+
     const contactBtn = document.createElement("button");
+    contactBtn.id = "contact-button"
     contactBtn.textContent = ("contact");
 
     const headerDiv = document.createElement("div");
