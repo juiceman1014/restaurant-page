@@ -22,7 +22,7 @@ export default function homePage(){
 
     const coverImage = document.createElement("img");
     coverImage.id = "cover-image";
-    coverImage.src = '../images/cat-eating-funny.jpeg';
+    coverImage.src = './images/cat-eating-funny.jpeg';
 
     const descriptionDiv = document.createElement("div");
     descriptionDiv.id = "description";
