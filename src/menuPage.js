@@ -22,7 +22,7 @@ export default function menuPage(){
 
     const coverImage = document.createElement("img");
     coverImage.id = "cover-image";
-    coverImage.src = '../images/menu-image.jpeg';
+    coverImage.src = '/images/menu-image.jpeg';
 
     const descriptionDiv = document.createElement("div");
     descriptionDiv.id = "description";
