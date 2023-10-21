@@ -1,2 +1,3 @@
 # restaurant-page
-Restaurant Page
+
+Build a restaurant-page using strictly javascript and webpack.
