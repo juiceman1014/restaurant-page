@@ -1,3 +1,3 @@
 # restaurant-page
 
-Build a restaurant-page using strictly javascript and webpack.
+Learning how to build a website with only javascript and webpack.
